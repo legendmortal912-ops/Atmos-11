@@ -29,7 +29,6 @@ plt.rcParams.update({
     "axes.spines.right":  False,  
 })
 
-
 print("=" * 60)
 print("  Delhi Temperature Forecasting — ML Project")
 print("=" * 60)
